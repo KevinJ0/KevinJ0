@@ -6,8 +6,8 @@
 ```javascript
 const kevin = {
   pronouns: "he" | "his",
-  code: [Javascript, Typescript, CSS, .Net Core, C#, Angular, SqlServer],
-  tools: [VSCode, VSStudio Scss, Postman, Notion, Sql Management Studio, Docker],
+  code: [ .Net Core, C#, Angular, SqlServer, Javascript, Typescript, CSS, Flutter],
+  tools: [VSCode, VSStudio, Postman, Notion, Sql Server Management Studio, Git Bash],
   architecture: ["design system pattern"],
   techCommunities: {
                         member: ".NET DOMINICANA",
@@ -33,6 +33,7 @@ const kevin = {
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/tools/visualstudio.svg" alt="vscode" style="vertical-align:top; margin:4px">
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/frameworks/materialize.svg" alt="vscode" style="vertical-align:top; margin:4px">
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/services/nuget.svg" alt="vscode" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/dart.svg" alt="vscode" style="vertical-align:top; margin:4px">
   
 <!--START_SECTION:waka-->
 ```text
@@ -42,7 +43,10 @@ No Activity tracked this Week
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KevinJ0&theme=maroongold&count_private=true&include_all_commits=true)
 
-<p><em>System Enginner at <a href="https://www.udoym.edu.do/">University O&M</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+<p><em>System Enginner at <a href="https://www.udoym.edu.do/">University O&M </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 </em></p>
+
+<p><a href="https://kevinj0.github.io/_Portafolio/">Portafolio</a>
+</p>
 
   <a href="mailto:webmaster:kevinjooo59@gmail.com"><img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/social/gmail.svg" alt="vscode" style="vertical-align:top; margin:4px"></a>
