@@ -5,7 +5,7 @@
 ```javascript
 const kevin = {
   pronouns: "he" | "his",
-  code: [ .Net Core, C#, Angular, SqlServer, Javascript, Typescript, CSS, Flutter],
+  code: [ .Net Core, C#, Dart, Flutter, Angular, SqlServer, Javascript, Typescript, CSS, Flutter],
   tools: [VSCode, VSStudio, Postman, Notion, Sql Server Management Studio, Git Bash],
   architecture: ["design system pattern"],
   techCommunities: {
