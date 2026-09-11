@@ -84,8 +84,8 @@ const kevin = {
 ### 📊 GitHub stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KevinJ0&theme=maroongold&count_private=true&include_all_commits=true&hide_border=true" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinJ0&layout=compact&theme=maroongold&hide_border=true" alt="Top languages" />
+  <img src="./profile/stats.svg" alt="GitHub stats" />
+  <img src="./profile/top-langs.svg" alt="Top languages" />
 </p>
 
 ---
